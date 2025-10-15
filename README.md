@@ -9,7 +9,7 @@ With a background spanning policy development, risk management, and cybersecurit
 ## Contact Information
 
 - **Email**: joesebright@gmail.com  
-- **LinkedIn**: [linkedin.com/in/joe-sebright](https://linkedin.com/in/joe-sebrightsebright)  
+- **LinkedIn**: [linkedin.com/in/joe-sebright](https://linkedin.com/in/joe-sebright/)  
 - **GitHub**: [github.com/jwsebright](https://github.com/jwsebright/grc_portfolio))  
 - **Location**: Champaign, IL, USA  
 

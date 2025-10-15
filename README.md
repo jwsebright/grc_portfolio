@@ -8,9 +8,9 @@ With a background spanning policy development, risk management, and cybersecurit
 
 ## Contact Information
 
-- **Email**: joe.sebright@example.com  
+- **Email**: joesebright@gmail.com  
 - **LinkedIn**: [linkedin.com/in/joesebright](https://linkedin.com/in/joesebright)  
-- **GitHub**: [github.com/joesebright](https://github.com/joesebright)  
+- **GitHub**: [github.com/jwsebright](https://github.com/joesebright)  
 - **Location**: Champaign, IL, USA  
 
 ## Professional Summary

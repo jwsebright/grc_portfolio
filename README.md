@@ -17,26 +17,26 @@ With a background spanning policy development, risk management, and cybersecurit
 
 As a **Senior Policy and Risk Analyst** for the **University of Illinois System**, I work at the intersection of policy, privacy, and cybersecurity engineering. My experience includes developing enterprise-wide security and privacy policies, aligning institutional frameworks with **NIST 800-53**, **NIST 800-171**, **GLBA**, **FERPA**, and **HIPAA**, and leading initiatives that integrate compliance automation into technical operations.
 
-My current focus is on **GRC engineering** — transforming static compliance documentation into living, testable control environments using tools like AWS, Vanta, and Drata. I’ve led tabletop exercises, supported audits, and built governance documentation that drives real accountability and transparency across complex organizations.
+My current focus is on **GRC engineering** — transforming static compliance documentation into living, testable control environments using tools like AWS, Vanta, and Riskonnect. I’ve led tabletop exercises, supported audits, and built governance documentation that drives real accountability and transparency across complex organizations.
 
 ## Technical Skills
 
 ### Governance, Risk & Compliance
-- Policy and standards development (IT14, IT09, MGT01, CAM Privacy Policy)
+- Policy and standards development for Higher Education
 - Risk assessments and control implementation
-- Compliance frameworks: NIST 800-53, NIST 800-171, ISO 27001, GLBA, FERPA, HIPAA
+- Compliance frameworks: NIST 800-53, NIST 800-171, NIST CSF, ISO 27001, GLBA, FERPA, HIPAA
 - Audit preparation and evidence management
 - Privacy governance and data protection strategy
 
 ### Cloud Security & Automation
 - AWS Security Governance and Compliance  
-- Compliance automation (Vanta, Drata, AWS Audit Manager)  
+- Compliance automation (Vanta and AWS Audit Manager)  
 - Infrastructure as Code for governance (CloudFormation concepts)  
 - Security monitoring and incident response exercises  
 - Continuous compliance and risk dashboards  
 
 ### Tools & Technologies
-- AWS | Vanta | Drata | AuditBoard | Splunk | GitHub Actions | ServiceNow GRC  
+- AWS | Vanta | Riskonnect | GitHub Actions | ServiceNow GRC  
 - Policy-as-Code methodologies | Risk analytics | Cloud governance  
 
 ## Certifications & Education
@@ -66,7 +66,7 @@ Through this work, I’ve developed a reputation for making compliance approacha
 
 ### GRC Control Framework Mapping
 
-**Description**: Developed a mapping between university IT policies (IT14, IT09, MGT01) and external frameworks like NIST 800-53 and ISO 27001 to streamline compliance audits and reporting.
+**Description**: Developed a mapping between university IT policies and external frameworks like NIST 800-53 and NIST 171 to streamline compliance audits and reporting.
 
 **Skills Demonstrated**:
 - Framework alignment and gap analysis  
@@ -81,21 +81,6 @@ Through this work, I’ve developed a reputation for making compliance approacha
 **Results**:
 - Simplified control documentation across multiple departments  
 - Reduced manual compliance review time by 40%  
-
----
-
-### Privacy and Security Policy Integration
-
-**Description**: Collaborated with the university’s privacy and security teams to align cybersecurity policy and privacy frameworks into a unified governance model.
-
-**Skills Demonstrated**:
-- Policy integration and cross-functional governance  
-- Privacy compliance and data protection alignment  
-- Change management across institutional units  
-
-**Results**:
-- Achieved systemwide alignment between privacy and cybersecurity policies  
-- Supported compliance with FERPA, HIPAA, and GLBA controls  
 
 ---
 
